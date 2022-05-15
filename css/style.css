@@ -1,0 +1,11 @@
+.navbar {
+  background: #7952b3;
+}
+.main {
+  min-height: 645px;
+}
+
+footer {
+  background: #7952b3;
+  min-height: 60px;
+}
